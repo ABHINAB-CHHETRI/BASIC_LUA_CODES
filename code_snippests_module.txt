@@ -1,0 +1,2 @@
+clear terminal : os.execute("clear")
+flush outputs from buffer : io.flush()
